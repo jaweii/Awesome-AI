@@ -258,6 +258,8 @@
 | [Playground AI](https://playgroundai.com/?ref=awe50meAI) | Create any image from your imagination |
 | [VectorArt.ai](https://vectorart.ai/?ref=awe50meAI) | Create vector images with AI |
 
+| [PhoText](https://photext.ai) | PhoText - free AI editor: click any text in an image or screenshot and retype it directly, with font matching, AI chat editing, OCR and image translation. |
+
 ## commerce & marketing tools
 | Awesome | Description |
 | --- | --- |
